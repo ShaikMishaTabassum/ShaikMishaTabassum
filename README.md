@@ -1,8 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Building+CrisisSync+%E2%80%94+offline-first+crisis+coordination;Shipping+ML+across+web%2C+edge+%26+embedded;SIH+2026+%E2%80%94+industrial+fire+detection+w%2F+NASA+FIRMS" alt="typing banner" />
+```
+███╗   ███╗██╗███████╗██╗  ██╗ █████╗ 
+████╗ ████║██║██╔════╝██║  ██║██╔══██╗
+██╔████╔██║██║███████╗███████║███████║
+██║╚██╔╝██║██║╚════██║██╔══██║██╔══██║
+██║ ╚═╝ ██║██║███████║██║  ██║██║  ██║
+╚═╝     ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-### Hi, I'm Misha
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Building+CrisisSync+%E2%80%94+offline-first+crisis+coordination;Shipping+ML+across+web%2C+edge+%26+embedded;SIH+2026+%E2%80%94+industrial+fire+detection+w%2F+NASA+FIRMS" alt="typing banner" />
 
 I build things that need to work when infrastructure doesn't — offline-first apps, edge ML on real hardware, and satellite data pipelines.
 Currently: **CrisisSync** and an SIH 2026 industrial-fire detection system.
@@ -10,23 +17,21 @@ Currently: **CrisisSync** and an SIH 2026 industrial-fire detection system.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/shaik-misha-tabassum-988140275/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikmisha2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShaikMishaTabassum)
-
 </div>
 
 ---
 
-## 🛠 Tech I build with
+## 🛠 Languages & Tools
 
-![stack](https://skillicons.dev/icons?i=fastapi,postgres,react,nextjs,py,pytorch,tensorflow,flutter,cpp,docker,go,git)
+![stack](https://skillicons.dev/icons?i=fastapi,postgres,react,nextjs,py,pytorch,tensorflow,flutter,cpp,docker,go,git,linux,aws,figma)
 
 ---
 
-## Selected work
+## 🚀 Selected work
 
 | Project | What it does | Stack |
 |---|---|---|
 | **[CrisisSync](https://github.com/YOUR-USERNAME/crisissync)** | Offline-first crisis coordination platform, real-time via WebSockets | FastAPI, PostgreSQL/Supabase, Next.js, React Three Fiber |
-| **[CloudFill](https://github.com/YOUR-USERNAME/cloudfill)** | Cloud removal for satellite imagery (ISRO BAH 2026, LISS-IV) | PyTorch, LaMa inpainting, Sentinel-1 SAR fusion, GDAL |
 | **[RailGuard AI](https://github.com/YOUR-USERNAME/railguard-ai)** | Edge safety monitoring on real hardware, multi-agent AI council | ESP32, TinyML/Edge Impulse, FastAPI, Groq/Llama-3.3 |
 | **[Shipwright](https://github.com/YOUR-USERNAME/shipwright)** | CI/CD + Kubernetes deploy tool, CLI + dashboard | Go, k3s, Terraform, GitHub Actions |
 | **[SHEild](https://github.com/YOUR-USERNAME/sheild)** | Women's-safety wearable, on-device inference | Flutter, ESP32, TensorFlow Lite |
@@ -35,22 +40,13 @@ Currently: **CrisisSync** and an SIH 2026 industrial-fire detection system.
 
 ---
 
-##  GitHub stats
+## 📊 GitHub stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark&hide_border=true)
 
-<!--
-**ShaikMishaTabassum/ShaikMishaTabassum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🕹 Contribution graph
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![pacman contribution graph](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/pacman-contribution-graph.svg)
