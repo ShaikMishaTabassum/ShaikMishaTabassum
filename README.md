@@ -233,14 +233,7 @@ Designed secure and scalable cloud architectures aligned with the AWS Well-Archi
 
 <br/>
 
-## &nbsp;&nbsp;🟣&nbsp; Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-8b5cf6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/YOUR-LEETCODE)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-4c1d95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/YOUR-GFG)
-[![HackerRank](https://img.shields.io/badge/HackerRank-6d28d9?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/YOUR-HACKERRANK)
-[![CodeChef](https://img.shields.io/badge/CodeChef-a78bfa?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/YOUR-CODECHEF)
-
-<br/>
 
 ## &nbsp;&nbsp;🟣&nbsp; GitHub Analytics
 
@@ -255,21 +248,6 @@ Designed secure and scalable cloud architectures aligned with the AWS Well-Archi
 
 <br/>
 
-## &nbsp;&nbsp;🟣&nbsp; GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ShaikMishaTabassum&theme=juicyfresh&no-frame=true&margin-w=8&row=1" />
-</div>
-
-<br/>
-
-## &nbsp;&nbsp;🟣&nbsp; Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaikMishaTabassum&theme=tokyo-night&hide_border=true&bg_color=1a1a2e&color=a78bfa&line=8b5cf6&point=e0e0ff" width="100%"/>
-</div>
-
-<br/>
 
 ## &nbsp;&nbsp;🟣&nbsp; Contribution Snake
 
