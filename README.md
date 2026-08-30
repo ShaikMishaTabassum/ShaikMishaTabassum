@@ -1,28 +1,29 @@
 <div align="center">
+
 <img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&weight=600&size=40&duration=3500&pause=1200&color=6B4E8E&center=true&vCenter=true&width=650&height=70&lines=Shaik+Misha+Tabassum" alt="name" />
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=400&size=18&duration=3500&pause=1200&color=8A7CA8&center=true&vCenter=true&width=650&lines=Final-Year+CS+%26+IT+Student+%40+MVSR+Engineering+College;Building+AI-Powered+%2C+Full-Stack+%26+Cloud-Native+Systems;Turning+Real-World+Problems+Into+Production+Code" alt="typing banner" />
-<br/>
 
-![CGPA](https://img.shields.io/badge/CGPA-8.56%2F10-6d28d9?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-4c1d95?style=flat-square&logo=googlemaps&logoColor=white)
-![Graduation](https://img.shields.io/badge/Graduating-2027-8b5cf6?style=flat-square)
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=400&size=18&duration=3500&pause=1200&color=8A7CA8&center=true&vCenter=true&width=650&lines=Final-Year+CS+%26+IT+Student+%7C+MVSR+Engineering+College;Full+Stack+%C2%B7+Backend+%C2%B7+AI%2FML+Engineering" alt="tagline" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-4c1d95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikmisha2005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShaikMishaTabassum)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL.com)
+![CGPA](https://img.shields.io/badge/CGPA-8.56%2F10-f5f0fa?style=flat-square&labelColor=6B4E8E&color=e8def8)
+![Location](https://img.shields.io/badge/Hyderabad%2C%20India-f5f0fa?style=flat-square&logo=googlemaps&logoColor=6B4E8E&labelColor=6B4E8E&color=e8def8)
+![Graduation](https://img.shields.io/badge/Graduating-2027-f5f0fa?style=flat-square&labelColor=6B4E8E&color=e8def8)
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6B4E8E?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-8A7CA8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikmisha2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-3d2e52?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShaikMishaTabassum)
+[![Portfolio](https://img.shields.io/badge/Portfolio-a58fc7?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ShaikMishaTabassum&style=flat-square&color=6d28d9&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/ShaikMishaTabassum?style=flat-square&color=4c1d95&label=Followers&logo=github)
-![Stars](https://img.shields.io/github/stars/ShaikMishaTabassum?style=flat-square&color=8b5cf6&label=Stars&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=ShaikMishaTabassum&style=flat-square&color=6B4E8E&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/ShaikMishaTabassum?style=flat-square&color=8A7CA8&label=Followers&logo=github)
+![Stars](https://img.shields.io/github/stars/ShaikMishaTabassum?style=flat-square&color=a58fc7&label=Stars&logo=github)
 
 </div>
-
-<br/>
 
 ## &nbsp;&nbsp;🟣&nbsp; About Me
 
