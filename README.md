@@ -42,10 +42,8 @@ Currently: **CrisisSync** and an SIH 2026 industrial-fire detection system.
 ---
 
 ## 📊 GitHub stats
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaikMishaTabassum&show_icons=true&theme=dark&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikMishaTabassum&layout=compact&theme=dark&hide_border=true)
-
 ---
 
 ## 🕹 Contribution graph
