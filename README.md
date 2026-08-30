@@ -1,9 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4c1d95,100:6d28d9&height=200&section=header&text=Shaik%20Misha%20Tabassum&fontSize=42&fontColor=E0E0FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%2F%20ML%20%7C%20Full%20Stack&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Final-Year+CS+%26+IT+Student+%40+MVSR+Engineering+College;Building+AI-Powered+%2C+Full-Stack+%26+Cloud-Native+Systems;Turning+Real-World+Problems+Into+Production+Code" alt="typing banner" />
-
+<img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&weight=600&size=40&duration=3500&pause=1200&color=6B4E8E&center=true&vCenter=true&width=650&height=70&lines=Shaik+Misha+Tabassum" alt="name" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=400&size=18&duration=3500&pause=1200&color=8A7CA8&center=true&vCenter=true&width=650&lines=Final-Year+CS+%26+IT+Student+%40+MVSR+Engineering+College;Building+AI-Powered+%2C+Full-Stack+%26+Cloud-Native+Systems;Turning+Real-World+Problems+Into+Production+Code" alt="typing banner" />
 <br/>
 
 ![CGPA](https://img.shields.io/badge/CGPA-8.56%2F10-6d28d9?style=flat-square)
