@@ -4,18 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=400&size=18&duration=3500&pause=1200&color=8A7CA8&center=true&vCenter=true&width=650&lines=Final-Year+CS+%26+IT+Student+%7C+MVSR+Engineering+College;Full+Stack+%C2%B7+Backend+%C2%B7+AI%2FML+Engineering" alt="tagline" />
 
-<br/>
-
-![CGPA](https://img.shields.io/badge/CGPA-8.56%2F10-f5f0fa?style=flat-square&labelColor=6B4E8E&color=e8def8)
-![Location](https://img.shields.io/badge/Hyderabad%2C%20India-f5f0fa?style=flat-square&logo=googlemaps&logoColor=6B4E8E&labelColor=6B4E8E&color=e8def8)
-![Graduation](https://img.shields.io/badge/Graduating-2027-f5f0fa?style=flat-square&labelColor=6B4E8E&color=e8def8)
-
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6B4E8E?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6B4E8E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-misha-tabassum-988140275/)
 [![Email](https://img.shields.io/badge/Email-8A7CA8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikmisha2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-3d2e52?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShaikMishaTabassum)
-[![Portfolio](https://img.shields.io/badge/Portfolio-a58fc7?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL.com)
 
 <br/>
 
@@ -94,7 +87,7 @@ Offline-first disaster response platform with AI assistance, emergency SOS workf
 | **Impact** | End-to-end emergency coordination — SOS, live messaging, dashboards |
 | **Repository** | [github.com/ShaikMishaTabassum/crisissync](https://github.com/ShaikMishaTabassum/crisissync) |
 
-Built 10+ REST APIs using Node.js and Express, integrating Socket.IO, the Claude API, and Twilio for real-time emergency communication, backed by a responsive React frontend with interactive disaster-management dashboards.
+CrisisSync was built to solve a real gap in disaster response: most coordination tools assume stable connectivity, which is exactly what disaster zones don't have. The platform is designed offline-first from the ground up, so responders and affected users can log emergencies, trigger SOS alerts, and stay coordinated even when network access is unreliable or intermittent. On the backend, I built 10+ REST APIs with Node.js and Express, wiring in Socket.IO for real-time messaging, the Claude API for AI-assisted triage and guidance, and Twilio for SMS-based emergency communication when app connectivity isn't an option. The React frontend is fully modular with role-based workflows — separate views and permissions for responders, coordinators, and civilians — plus interactive dashboards for tracking incidents as they unfold. The whole system is deployed on AWS to keep it resilient and scalable during high-load emergency events.
 </details>
 
 <details>
@@ -112,7 +105,7 @@ AI-powered railway monitoring platform featuring live dashboards, risk visualiza
 | **Impact** | Foundation for real-time monitoring and AI prediction integration |
 | **Repository** | [github.com/ShaikMishaTabassum/railguard-ai](https://github.com/ShaikMishaTabassum/railguard-ai) |
 
-Designed a FastAPI backend with PostgreSQL integration to process railway event and sensor data efficiently, with a live-dashboard frontend built for future integration of AI-based risk prediction models.
+RailGuard AI tackles a real safety problem — railway incidents are often caught too late because monitoring is manual, fragmented, or reactive rather than predictive. I designed a FastAPI backend backed by PostgreSQL to ingest and process railway event and sensor data efficiently, structuring the schema so it can scale to real sensor feeds beyond the hackathon prototype. On top of that sits a React dashboard that visualizes risk in real time, lets operators simulate incident scenarios, and surfaces anomalies before they escalate. The architecture was deliberately built to be extensible — the current MVP handles live event visualization and simulation, but the backend is structured to plug in AI-based prediction models for proactive risk-scoring as the next phase.
 </details>
 
 <details>
@@ -130,6 +123,7 @@ Go-based CLI and web dashboard for convention-based CI/CD and Kubernetes deploym
 | **Impact** | Infra/DevOps portfolio piece complementing application-layer projects |
 | **Repository** | [github.com/ShaikMishaTabassum/shipwright](https://github.com/ShaikMishaTabassum/shipwright) |
 
+Shipwright grew out of a gap I noticed in my own project history — most of my work sits at the application layer, with no real signal of infrastructure or deployment engineering. It's a Go-based CLI paired with a React dashboard that lets a developer go from a repo to a running Kubernetes deployment using sensible conventions instead of writing pipeline configuration by hand. Under the hood it orchestrates k3s clusters, provisions infrastructure through Terraform, and hooks into GitHub Actions for CI, so pushing code can trigger a full build-test-deploy cycle with minimal manual setup. It's meant to be the kind of internal tool a small engineering team would actually reach for — opinionated enough to save setup time, but transparent enough that you can see exactly what it's doing under the hood.
 </details>
 
 <details>
@@ -147,6 +141,7 @@ Voice-first multilingual navigator for Telangana government documents.
 | **Impact** | Accessibility-focused, India-specific civic tech |
 | **Repository** | [github.com/ShaikMishaTabassum/kagaz](https://github.com/ShaikMishaTabassum/kagaz) |
 
+Kagaz was built to address a genuinely underserved problem: navigating Indian government documents and processes is hard even for literate, tech-comfortable users — and far harder for people who aren't fluent in English or comfortable with dense bureaucratic text. The app is voice-first by design, letting users speak their query in Telugu, Hindi, Urdu, or English and get guided through the relevant government document process in their own language, powered by the Gemini API for language understanding and generation. I built full support for right-to-left Urdu layout alongside the other scripts, integrated Google Cloud Speech for voice input, and packaged the whole thing as a responsive PWA so it works smoothly across both mobile and desktop without needing a native app install. The backend runs on FastAPI with PostgreSQL handling document and session data.
 </details>
 
 <details>
@@ -164,6 +159,7 @@ Alternative credit scoring for credit-invisible Indians.
 | **Impact** | Financial inclusion for underserved credit populations |
 | **Repository** | [github.com/ShaikMishaTabassum/creditmirror](https://github.com/ShaikMishaTabassum/creditmirror) |
 
+CreditMirror addresses a specific financial-inclusion gap: millions of Indians are "credit-invisible" — they have no formal credit history, so traditional scoring models lock them out of loans and financial products even when they're creditworthy. I built an alternative scoring engine using XGBoost and LightGBM trained on non-traditional signals, with SHAP layered on top so every score comes with a transparent, explainable breakdown of what drove it — critical for a use case where trust and fairness matter as much as accuracy. The FastAPI backend serves predictions to a React frontend built with Recharts, visualizing score composition and contributing factors in a way a non-technical user could actually understand. It was built end-to-end, including a full orchestration layer between the ML models and the API, for the Cognizant Technoverse Hackathon 2026, complete with slide deck and live demo.
 </details>
 
 <details>
@@ -181,6 +177,7 @@ On-device inference wearable for women's safety.
 | **Impact** | Embedded safety-tech for real-world deployment |
 | **Repository** | [github.com/ShaikMishaTabassum/sheild](https://github.com/ShaikMishaTabassum/sheild) |
 
+SHEild is a women's-safety wearable built around a simple constraint: in an actual emergency, you can't rely on a stable internet connection or cloud round-trip to detect danger and respond fast enough. The device runs on an ESP32 microcontroller with a TensorFlow Lite model doing inference directly on-device, so threat/anomaly detection happens locally with low latency instead of depending on a server call. A companion Flutter app handles alerts, contacts, and the user-facing side of the experience. Built with Team Zenith for a dedicated hackathon, the project was scoped specifically around real-world deployability — battery constraints, response latency, and reliability without connectivity — rather than just a proof-of-concept demo.
 </details>
 
 <br/>
@@ -202,7 +199,6 @@ Designed secure and scalable cloud architectures aligned with the AWS Well-Archi
 
 | Recognition | Details |
 |---|---|
-| CGPA | 8.56 / 10 — B.E. Computer Science & IT, MVSR Engineering College |
 | AWS Academy Graduate | Machine Learning Foundations |
 | AWS Academy Graduate | Generative AI Foundations |
 | Forage Virtual Program | AWS Solutions Architecture Job Simulation |
@@ -231,8 +227,6 @@ Designed secure and scalable cloud architectures aligned with the AWS Well-Archi
 
 <br/>
 
-
-
 ## &nbsp;&nbsp;🟣&nbsp; GitHub Analytics
 
 <div align="center">
@@ -245,7 +239,6 @@ Designed secure and scalable cloud architectures aligned with the AWS Well-Archi
 </div>
 
 <br/>
-
 
 ## &nbsp;&nbsp;🟣&nbsp; Contribution Snake
 
@@ -280,9 +273,10 @@ Open To:
 
 ## &nbsp;&nbsp;🟣&nbsp; Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/shaik-misha-tabassum-988140275/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-misha-tabassum-988140275/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikmisha2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShaikMishaTabassum)
+
 <br/>
 
 <div align="center">
