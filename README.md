@@ -22,7 +22,7 @@
 
 Final-year **Computer Science & Information Technology** student at MVSR Engineering College, Hyderabad, focused on building production-grade **full-stack**, **backend**, and **AI/ML-integrated** systems. Comfortable owning a problem end to end — from designing REST APIs and database schemas to shipping responsive frontends and deploying on cloud infrastructure. Strong emphasis on writing systems that hold up under real-world constraints: offline-first architecture, real-time communication, and production-minded engineering rather than demo-only code.
 
-**🎯 Open To:** Software Engineering (Full Stack) · Backend Engineering · AI/ML Engineering · SDE Internships & New-Grad Roles
+** Open To:** Software Engineering (Full Stack) · Backend Engineering · AI/ML Engineering · SDE Internships & New-Grad Roles
 
 <br/>
 
@@ -73,7 +73,7 @@ Final-year **Computer Science & Information Technology** student at MVSR Enginee
 ## &nbsp;&nbsp;🟣&nbsp; Featured Projects
 
 <details open>
-<summary><b>🚨 CrisisSync — AI-Powered Offline Disaster Response Platform</b></summary>
+<summary><b> CrisisSync — AI-Powered Offline Disaster Response Platform</b></summary>
 <br/>
 
 Offline-first disaster response platform with AI assistance, emergency SOS workflows, and real-time messaging built for real disaster scenarios.
@@ -91,7 +91,7 @@ CrisisSync was built to solve a real gap in disaster response: most coordination
 </details>
 
 <details>
-<summary><b>🚆 RailGuard AI — Intelligent Railway Risk Monitoring System</b></summary>
+<summary><b> RailGuard AI — Intelligent Railway Risk Monitoring System</b></summary>
 <br/>
 
 AI-powered railway monitoring platform featuring live dashboards, risk visualization, and incident simulation.
@@ -109,7 +109,7 @@ RailGuard AI tackles a real safety problem — railway incidents are often caugh
 </details>
 
 <details>
-<summary><b>⚓ Shipwright — Convention-Based CI/CD & Kubernetes Deployment Tool</b></summary>
+<summary><b> Shipwright — Convention-Based CI/CD & Kubernetes Deployment Tool</b></summary>
 <br/>
 
 Go-based CLI and web dashboard for convention-based CI/CD and Kubernetes deployment.
@@ -127,7 +127,7 @@ Shipwright grew out of a gap I noticed in my own project history — most of my 
 </details>
 
 <details>
-<summary><b>📄 Kagaz — Multilingual Government Document Navigator</b></summary>
+<summary><b> Kagaz — Multilingual Government Document Navigator</b></summary>
 <br/>
 
 Voice-first multilingual navigator for Telangana government documents.
@@ -145,7 +145,7 @@ Kagaz was built to address a genuinely underserved problem: navigating Indian go
 </details>
 
 <details>
-<summary><b>💳 CreditMirror — Alternative Credit Scoring Engine</b></summary>
+<summary><b> CreditMirror — Alternative Credit Scoring Engine</b></summary>
 <br/>
 
 Alternative credit scoring for credit-invisible Indians.
@@ -163,7 +163,7 @@ CreditMirror addresses a specific financial-inclusion gap: millions of Indians a
 </details>
 
 <details>
-<summary><b>🛡️ SHEild — Women's Safety Wearable</b></summary>
+<summary><b> SHEild — Women's Safety Wearable</b></summary>
 <br/>
 
 On-device inference wearable for women's safety.
